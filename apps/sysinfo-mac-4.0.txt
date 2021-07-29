@@ -80,7 +80,7 @@ osVersion: macOS Catalina 10.15.7
 65            openssl       1.4.4   CRAN                       
 66            packrat       0.6.0   CRAN                       
 67          parsedate       1.2.1   CRAN                       
-68             pillar       1.6.1   CRAN                       
+68             pillar       1.6.2   CRAN                       
 69              pingr       2.0.1   CRAN                       
 70           pkgbuild       1.2.0   CRAN                       
 71           pkgcache       1.2.2   CRAN                       
